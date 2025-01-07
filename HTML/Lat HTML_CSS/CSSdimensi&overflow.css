@@ -1,0 +1,23 @@
+div	{
+	background-color: red;
+}
+
+.satu {
+	width: 500px;
+	height: 200px;
+	background-color: pink;
+
+}
+
+.dua {
+	width: 180%;
+	background: lightgreen;
+}
+ 
+
+.pg div {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	overflow: scroll;
+}

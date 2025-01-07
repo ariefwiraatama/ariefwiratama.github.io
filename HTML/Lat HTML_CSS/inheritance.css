@@ -1,0 +1,50 @@
+/*belajar inheritance*/
+
+body {
+	font-family: arial;
+	color: darkgrey;
+	background-color: #1fa4d1;
+	background-image: url(000.jpg);
+}
+
+a {
+	color: inherit;
+}
+
+.hello:hover {
+	color: green;
+	font-family: arial;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
